@@ -1,4 +1,4 @@
-# Track Products & Prices APIs: Monitor Ecommerce Prices, Stock and Catalogs
+# Price Tracking APIs: Watch Product Prices and Stock in Any Online Store
 
 <p align="center">
  <img src="https://images.bigibyte.com/projects/bigibyte-github-track-products-prices-apis-cover.png" alt="Track Products & Prices APIs: product and price APIs" width="100%">
@@ -13,11 +13,12 @@
 <p align="center">
  <a href="#top-10-most-popular">Top 10</a> ·
  <a href="#table-of-contents">Categories</a> ·
- <a href="#how-to-use">How to use</a> ·
- <a href="#faq">FAQ</a>
+ <a href="#more-lists">More lists</a>
 </p>
 
-**A big, tidy list of product and price APIs** for ecommerce catalogs, stock checks, marketplace listings and price history. **21,531 APIs**, sorted by real users so the useful ones show up first.
+Want to know when a product gets cheaper, or sells out? Give one of these APIs a product link, and it brings back the price, stock and photos from the store. **21,531 ready-to-use APIs**, sorted by real users so the best ones come first.
+
+These product and price tracking APIs help you monitor ecommerce prices, stock and catalogs. Use them as an Amazon scraper, Shopify and Etsy scraper, eBay and Walmart price tracker, AliExpress, Shopee and Temu product scraper, and review scraper for dropshipping, price comparison and repricing. Each API runs in the cloud and exports JSON, CSV or Excel.
 
 ---
 
@@ -1057,45 +1058,6 @@ If this list helped you, a star helps other people find it too.
 
 
 [View all 24 in this section →](lists/x-twitter.md)
-
----
-
-## How to use
-
-1. Open any API link in this repo.
-2. Read the input fields (usually a product URL, ASIN, SKU list or category search).
-3. Run a small test so you see the output shape.
-4. Export the dataset as JSON, CSV or Excel, or call the same API from your code.
-
-
-```bash
-# Example: send JSON to any HTTP API you choose
-curl -X POST "https://httpbin.org/post" \
- -H "Content-Type: application/json" \
- -d '{"query":"example","limit":10}'
-```
-
----
-
-## FAQ
-
-**What is the best API to track product prices?** 
-Start with the [Top 10](#top-10-most-popular). Then open Amazon, Shopify/Etsy or eBay/Walmart sections that match your stores.
-
-**Can I scrape Amazon product data?** 
-Yes. See the Amazon section when it appears in the table of contents. Follow Amazon rules and local laws.
-
-**How do I monitor stock changes?** 
-Pick a product API that returns availability, schedule small runs, and store the rows over time.
-
-**How is this list organized?** 
-By theme. Full tables live in the [`lists/`](lists/) folder. The README shows a preview of each category.
-
-**How often is it updated?** 
-Last build: 2026-11-02. Rebuild when you need a newer snapshot.
-
-**Why do some ratings say n/a?** 
-That API has no public rating yet.
 
 ---
 
