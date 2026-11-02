@@ -12,8 +12,7 @@
 
 <p align="center">
  <a href="#top-10-most-popular">Top 10</a> ·
- <a href="#table-of-contents">Categories</a> ·
- <a href="#more-lists">More lists</a>
+ <a href="#table-of-contents">Categories</a>
 </p>
 
 Want to know when a product gets cheaper, or sells out? Give one of these APIs a product link, and it brings back the price, stock and photos from the store. **21,531 ready-to-use APIs**, sorted by real users so the best ones come first.
@@ -57,9 +56,11 @@ Pick an API below, open it, try a small run, then export the results.
 
 ---
 
-## Star this repository
+## ⭐ Star This Repository
 
-If this list helped you, a star helps other people find it too.
+If this API list helped you, please give it a star! ⭐
+
+Your support helps other people discover this resource and keeps the list updated and growing.
 
 ---
 
@@ -1058,14 +1059,6 @@ If this list helped you, a star helps other people find it too.
 
 
 [View all 24 in this section →](lists/x-twitter.md)
-
----
-
-## More lists
-
-More API lists: [github.com/bigibyte](https://github.com/bigibyte)
-
-This repo: [github.com/bigibyte/track-products-prices-apis](https://github.com/bigibyte/track-products-prices-apis)
 
 ---
 
