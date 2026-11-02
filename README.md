@@ -54,6 +54,17 @@ These **21,531 ready-to-use product and price APIs** help you pull store data in
 
 Pick an API below, open it, try a small run, then export the results.
 
+<details>
+<summary><b>Who uses product and price APIs? (click to open)</b></summary>
+
+- **Ecommerce sellers:** watch competitor prices and change yours on time.
+- **Dropshippers:** find winning products and compare suppliers.
+- **Deal hunters:** get alerted when a price drops or an item is back in stock.
+- **Brands:** check that stores show the right price, photos and stock.
+- **Analysts:** build price history charts for any list of products.
+
+</details>
+
 ---
 
 ## ⭐ Star This Repository
